@@ -1,6 +1,6 @@
 airtable-python-wrapper==0.8.0
 astroid==2.2.5
-certifi==2018.1.18
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.1
 Django==2.0
